@@ -2,6 +2,8 @@
 
 Greatings, this is demo api which is using MongoDb and Redis with WebAPI. You need to install [MongoDb](https://www.mongodb.com/try/download/community), [Redis](https://redis.io/download) before run the Tulkas Api. If you're using windows you can install Redis with [installer](https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi) which provided by Microsoft.
 
+You can reach architecture diagram of the application [here](https://github.com/daparadoks/tulkas/blob/main/Tulkas%20Architecture%20Diagram.pdf).
+
 ## Getting Started
 ### Installing MongoDb
 - Install [MongoDb Community Edition](https://www.mongodb.com/try/download/community)
